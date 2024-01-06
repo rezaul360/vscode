@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 15,
+  "editor.fontSize": 13,
   "editor.fontFamily": "Cascadia Code",
   "editor.fontWeight": "200",
   "editor.tabSize": 2,
@@ -15,24 +15,11 @@
   "workbench.iconTheme": "vscode-icons",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#010114",
-    "editorGroupHeader.tabsBackground": "#080827",
-    "activityBar.background": "#020218",
-    "sideBar.background": "#141422",
-    "minimap.background": "#141422",
-    "tab.activeBackground": "#008080",
-    "editor.background": "#0b0324",
-    "tab.inactiveBackground": "#070731",
-    "terminal.border": "#2c2c54",
-    "terminal.background": "#2c2c54",
-    "statusBar.background": "#474787",
-    "scrollbarSlider.background": "#474787",
-    "scrollbarSlider.hoverBackground": "#706fd3"
-  },
+  "workbench.colorCustomizations": {},
   "editor.tokenColorCustomizations": { "comments": "#d49a2f8f" },
   "editor.linkedEditing": true,
   "terminal.integrated.fontSize": 20,
   "terminal.integrated.fontWeight": "normal",
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.colorTheme": "Rezaul360 - Professional"
 }
